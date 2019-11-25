@@ -4,7 +4,7 @@ music-7d7
 @static
 
 @http
-
+get /test
 
 @tables
 data
